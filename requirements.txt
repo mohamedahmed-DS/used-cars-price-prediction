@@ -1,0 +1,18 @@
+# Core Data Manipulation
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Jupyter Notebook Environment
+jupyter
+notebook
+
+# Optional: For loading datasets and progress tracking
+openpyxl
+tqdm
